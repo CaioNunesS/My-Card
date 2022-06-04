@@ -6,16 +6,22 @@
 
 body {
     background-color: hsl(217, 54%, 11%)
-    
-}
-img{
-    content: center;
-}
+    }
+
 *{font-family: 'Roboto', sans-serif;}
-h1{ 
+h3{ 
     color: hsl(178, 100%, 50%);
+
 
 }
 p{
-    color: hsl(215, 51%, 70%);;
+    color: hsl(215, 51%, 70%);
 font-size: 18px;}
+.eth{ 
+    color: hsl(178, 100%, 50%);
+}
+
+img{
+    width: 375px;
+
+}
